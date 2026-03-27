@@ -1,0 +1,48 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.log
+*.pot
+*.py[cod]
+*$py.class
+
+# Env
+env/
+venv/
+ENV/
+
+# Django
+*.db
+*.sqlite3
+*.log
+db.sqlite3
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+local_settings.py
+media/
+staticfiles/
+static_root/
+*.cover
+.coverage
+htmlcov/
+*.mo
+*.pot
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / Frontend (optional)
+node_modules/
